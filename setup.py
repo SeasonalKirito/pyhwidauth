@@ -17,7 +17,7 @@ setup(
     install_requires=['requests'],
     keywords=['python'],
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 1 - Full",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
