@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '1'
+VERSION = '0.0.1'
 DESCRIPTION = 'Hardware Id Authenication'
 LONG_DESCRIPTION = 'A package that allows the user to authenicate user over their hwid.'
 
