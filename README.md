@@ -7,6 +7,7 @@ if you have any troubles or concerns message me on discord seasonal#6835, if it 
                                                     -- 📩 Downloading 📩 --
 ```
 ```cmd
+python -m pip install requests
 python -m pip install {url}
 ```
 ```
