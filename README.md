@@ -13,7 +13,7 @@ python -m pip install {url}
                                                        -- 🖥️ Usage 🖥️ --
 ```
 ```py
-from authenication import auth
+from pyhwidauth import auth
 auth.authenticate(hwid=auth.get_hwid(), url="https://hwids.json") # If your hwid is in "https://hwids.json" it will continue
 print("Authenicated!")
 ```
