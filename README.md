@@ -4,14 +4,14 @@ and this could be used to make paid or even just invite only python script or ec
 The Module might be updated some times but not alot,
 if you have any troubles or concerns message me on discord seasonal#6835, if it doesnt go through i probally got termed :(.
 ```
-                                           -- 📩 Downloading 📩 --
+                                        -- 📩 Downloading 📩 --
 ```
 ```cmd
 python -m pip install requests
 python -m pip install {url}
 ```
 ```
-                                              -- 🖥️ Usage 🖥️ --
+                                           -- 🖥️ Usage 🖥️ --
 ```
 ```py
 from pyhwidauth import auth
