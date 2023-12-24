@@ -1,6 +1,6 @@
 ## PYHwidAuth 💾
 PYHwidAuth is your assistant in getting you HWID and Verifying 
-it in utl and file format. (Perferred JSON Format) 🤖
+it in url and file format. (Perferred JSON Format) 🤖
 ## Installation 📩
 Tested on Newest Python Versions, There is only one requirement for this code ✅
 ```cmd
