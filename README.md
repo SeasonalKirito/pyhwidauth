@@ -1,4 +1,4 @@
-## PYHwidAuth 💾
+# PYHwidAuth 💾
 PYHwidAuth is your assistant in getting you HWID and Verifying 
 it in url and file format. (Perferred JSON Format) 🤖
 ## Installation 📩
